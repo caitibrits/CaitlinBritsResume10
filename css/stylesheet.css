@@ -142,7 +142,7 @@ header {
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;
-  margin-bottom: none;
+  margin-bottom: 0%;
 }
 
 #education {
@@ -975,7 +975,6 @@ div #backToTop:hover img {
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
-    margin-bottom: 10%;
     text-align: center;
   }
   
